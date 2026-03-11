@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "home": "Início",
+    "pricing": "Preços",
+    "about": "Sobre",
+    "contacts": "Contactos",
+    "credits": "créditos",
+    "signIn": "Entrar",
+    "signOut": "Sair"
+  },
+  "Hero": {
+    "badge": "✨ Criação de Imagem com IA",
+    "titlePrefix": "Transforma a Tua",
+    "titleHighlight": "Imaginação",
+    "subtitle": "Descreve o que queres ver e o nosso motor avançado de IA vai renderizá-lo em segundos. De cenas fotorrealistas a arte conceptual incrível."
+  },
+  "PromptZone": {
+    "titlePrefix": "Cria a Tua",
+    "titleHighlight": "Obra-prima",
+    "promptLabel": "O que queres criar?",
+    "promptPlaceholder": "Uma cidade cyberpunk à chuva, reflexos de néon, estilo cinemático, 8k...",
+    "styleLabel": "Escolhe um Estilo Artístico",
+    "styles": {
+      "photorealistic": "Fotorrealista",
+      "photorealisticDesc": "Iluminação cinemática, alto detalhe",
+      "anime": "Anime",
+      "animeDesc": "Estilo Studio Ghibli, cores vibrantes",
+      "fantasy": "Arte Fantástica",
+      "fantasyDesc": "Mágico, etéreo, tendência no artstation",
+      "concept": "Arte Conceptual",
+      "conceptDesc": "Ficção científica, cyberpunk, escuro"
+    },
+    "button": "Gerar Imagem",
+    "emptyPrompt": "Por favor, descreve o que pretendes gerar primeiro.",
+    "generationFailed": "Falha na geração. Tenta novamente.",
+    "costInfo": "Gera 1 imagem HD + Preview (30 créditos para desbloquear)",
+    "loadingMessages": [
+      "A analisar pedido...",
+      "A iniciar modelos IA...",
+      "A gerar formas básicas...",
+      "A refinar iluminação e detalhes...",
+      "A finalizar texturas HD..."
+    ]
+  },
+  "Gallery": {
+    "title": "As Tuas Criações",
+    "editUnlock": "Ver / Desbloquear",
+    "download": "Descarregar HD"
+  },
+  "Showcase": {
+    "titlePrefix": "Explora as",
+    "titleHighlight": "Possibilidades",
+    "subtitle": "Vê o que os outros estão a gerar com o motor de IA da Pixeliora."
+  },
+  "Pricing": {
+    "titlePrefix": "Preços",
+    "titleHighlight": "Cósmicos e Simples",
+    "subtitle": "Compra créditos uma vez, usa-os quando quiseres. Sem subscrições.",
+    "mostPopular": "Mais Popular",
+    "coffeeValue": "☕ Menos que um café!",
+    "choose": "Começar a Criar",
+    "corporateTitle": "Enterprise / API",
+    "corporateQuestion": "Precisas de gerar em escala?",
+    "corporateDesc": "Acesso à API e preços por volume para estúdios e agências.",
+    "contactButton": "Contactar",
+    "packages": {
+      "starter": {
+        "credits": "200 Créditos"
+      },
+      "creator": {
+        "credits": "800 Créditos",
+        "bonus": "+50 Créditos Bónus"
+      },
+      "studio": {
+        "credits": "1700 Créditos",
+        "bonus": "+100 Créditos Bónus"
+      }
+    },
+    "features": {
+      "5_photos": "~6 Gerações Alta Resolução",
+      "25_photos": "~28 Gerações Alta Resolução",
+      "50_photos": "~60 Gerações Alta Resolução",
+      "enhancements": "Todos os Estilos Artísticos",
+      "all_styles": "Acesso Prioritário à GPU",
+      "1_user": "Velocidade Normal",
+      "2_3_users": "Licença Comercial",
+      "3_6_users": "Suporte Dedicado"
+    }
+  },
+  "SocialProof": {
+    "title": "Adorado por",
+    "titleHighlight": "Criadores",
+    "subtitle": "Junta-te a milhares de artistas e sonhadores que estão a construir o futuro.",
+    "testimonials": [
+      {
+        "name": "Alex M.",
+        "role": "Concept Artist",
+        "text": "O Pixeliora ajudou-me imenso no meu processo criativo. Uso para criar conceitos de cenários antes de pintar. O estilo fantástico é surreal."
+      },
+      {
+        "name": "Sarah J.",
+        "role": "Diretora de Marketing",
+        "text": "Precisávamos de ilustrações personalizadas mas não tínhamos orçamento. Esta ferramenta deu-nos assets de qualidade de agência em minutos."
+      },
+      {
+        "name": "Leo T.",
+        "role": "Programador de Jogos",
+        "text": "A compreensão dos prompts é incrível. Os cenários cyberpunk que gerei encaixaram perfeitamente nos moodboards do meu jogo indie."
+      }
+    ]
+  },
+  "SocialProofNotifications": {
+    "messages": [
+      "{name} acabou de gerar um cenário cyberpunk",
+      "{name} criou uma ilustração anime",
+      "{name} desbloqueou uma obra fotorrealista",
+      "{name} juntou-se ao Pixeliora",
+      "{name} gerou concept art de fantasia"
+    ],
+    "names": ["Elena", "Marcus", "Sophia", "Jaden", "Chloe", "David", "Aria", "Liam"]
+  },
+  "Footer": {
+    "description": "Desbloqueia criatividade infinita. Gera imagens deslumbrantes através de texto com tecnologia de ponta em IA.",
+    "product": "Produto",
+    "uploadPhoto": "Gerar Arte",
+    "legal": "Legal",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contacts": "Contactos",
+    "rights": "Todos os direitos reservados. Feito pela"
+  },
+  "ResultView": {
+    "unlock": "Desbloquear Alta Qualidade",
+    "unlockDesc": "Usa créditos para remover o efeito blur e descarregar em HD",
+    "download": "Descarregar Imagem HD",
+    "unlocking": "A desbloquear...",
+    "previewMode": "Modo de Pré-visualização",
+    "details": "Detalhes da Geração",
+    "status": "Estado",
+    "unlocked": "Imagem HD Desbloqueada",
+    "previewOnly": "Apenas Preview",
+    "closeDialog": "Fechar",
+    "insufficientCredits": "Sem créditos suficientes. Adquire um pacote.",
+    "credits": "créditos"
+  },
+  "LoginModal": {
+    "title": "Entrar no Pixeliora",
+    "subtitle": "Inicia sessão ou cria conta para começares a tua jornada criativa.",
+    "google": "Continuar com Google",
+    "terms": "Ao continuares, concordas com os",
+    "termsLink": "Termos de Serviço",
+    "and": "e",
+    "privacyLink": "Política de Privacidade"
+  },
+  "CookieBanner": {
+    "message": "Utilizamos cookies celestiais para garantir a melhor experiência na nossa plataforma criativa.",
+    "accept": "Entendido",
+    "learnMore": "Saber Mais"
+  },
+  "About": {
+    "title": "Sobre o Pixeliora",
+    "description": "O Pixeliora utiliza inteligência artificial de ponta para transformar os teus textos em obras-primas visuais vibrantes e deslumbrantes. A nossa missão é democratizar a criação de arte digital."
+  },
+  "Contacts": {
+    "title": "Contactos",
+    "description": "Tens questões sobre o Pixeliora? Queres discutir preços para empresas? Gostaríamos de falar contigo.",
+    "email": "Email de contacto"
+  },
+  "Privacy": {
+    "title": "Política de Privacidade",
+    "content": "A tua privacidade é importante para nós. Esta política descreve como recolhemos, usamos e protegemos as tuas informações."
+  },
+  "Terms": {
+    "title": "Termos de Serviço",
+    "content": "Ao utilizar o Pixeliora, concordas com os termos e condições aplicáveis à nossa plataforma de IA."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "about": "About",
+    "contacts": "Contact",
+    "credits": "credits",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "Hero": {
+    "badge": "✨ AI-Powered Image Creation",
+    "titlePrefix": "Transform Your",
+    "titleHighlight": "Imagination",
+    "subtitle": "Describe what you want to see, and our advanced AI engine will render it in seconds. From photorealistic scenes to stunning concept art."
+  },
+  "PromptZone": {
+    "titlePrefix": "Create Your",
+    "titleHighlight": "Masterpiece",
+    "promptLabel": "What do you want to create?",
+    "promptPlaceholder": "A cyberpunk city in the rain, neon lights reflection, cinematic shot, 8k...",
+    "styleLabel": "Choose an Art Style",
+    "styles": {
+      "photorealistic": "Photorealistic",
+      "photorealisticDesc": "Cinematic lighting, high detail, lifelike",
+      "anime": "Anime",
+      "animeDesc": "Studio Ghibli style, vibrant colors",
+      "fantasy": "Fantasy Art",
+      "fantasyDesc": "Ethereal, magical, artstation trending",
+      "concept": "Concept Art",
+      "conceptDesc": "Sci-fi, dark mood, striking"
+    },
+    "button": "Generate Image",
+    "emptyPrompt": "Please describe what you want to generate first.",
+    "generationFailed": "Generation failed. Please try again.",
+    "costInfo": "Generates 1 HD image + Preview (30 credits to unlock)",
+    "loadingMessages": [
+      "Analyzing prompt...",
+      "Initializing AI models...",
+      "Generating basic shapes...",
+      "Refining lighting and details...",
+      "Finalizing HD textures..."
+    ]
+  },
+  "Gallery": {
+    "title": "Your Creations",
+    "editUnlock": "Preview / Unlock",
+    "download": "Download HD"
+  },
+  "Showcase": {
+    "titlePrefix": "Explore the",
+    "titleHighlight": "Possibilities",
+    "subtitle": "See what others are generating with Pixeliora's advanced AI engine."
+  },
+  "Pricing": {
+    "titlePrefix": "Simple,",
+    "titleHighlight": "Cosmic Pricing",
+    "subtitle": "Buy credits once, use them anytime. No subscriptions.",
+    "mostPopular": "Most Popular",
+    "coffeeValue": "☕ Skip a coffee, make art!",
+    "choose": "Start Creating",
+    "corporateTitle": "Enterprise / API",
+    "corporateQuestion": "Need to generate at scale?",
+    "corporateDesc": "Custom API setups and volume pricing for studios and agencies.",
+    "contactButton": "Contact Us",
+    "packages": {
+      "starter": {
+        "credits": "200 Credits"
+      },
+      "creator": {
+        "credits": "800 Credits",
+        "bonus": "+50 Bonus Credits"
+      },
+      "studio": {
+        "credits": "1700 Credits",
+        "bonus": "+100 Bonus Credits"
+      }
+    },
+    "features": {
+      "5_photos": "~6 High-Res Generations",
+      "25_photos": "~28 High-Res Generations",
+      "50_photos": "~60 High-Res Generations",
+      "enhancements": "All Art Styles Included",
+      "all_styles": "Priority GPU Access",
+      "1_user": "Standard Speed",
+      "2_3_users": "Commercial License",
+      "3_6_users": "Dedicated Support"
+    }
+  },
+  "SocialProof": {
+    "title": "Loved by",
+    "titleHighlight": "Creators",
+    "subtitle": "Join thousands of artists and dreamers building the future.",
+    "testimonials": [
+      {
+        "name": "Alex M.",
+        "role": "Concept Artist",
+        "text": "Pixeliora completely unblocked my creative process. I use it to brainstorm environmental designs before painting. The fantasy style is incredible."
+      },
+      {
+        "name": "Sarah J.",
+        "role": "Marketing Director",
+        "text": "We needed custom illustrations for our campaign but didn't have the budget. This tool gave us agency-quality assets in minutes."
+      },
+      {
+        "name": "Leo T.",
+        "role": "Game Developer",
+        "text": "The prompt understanding is next level. The cyberpunk assets I generated fit perfectly into my indie game's moodboards."
+      }
+    ]
+  },
+  "SocialProofNotifications": {
+    "messages": [
+      "{name} just generated a cyberpunk scene",
+      "{name} created an anime illustration",
+      "{name} unlocked a photorealistic masterpiece",
+      "{name} joined Pixeliora",
+      "{name} generated fantasy concept art"
+    ],
+    "names": ["Elena", "Marcus", "Sophia", "Jaden", "Chloe", "David", "Aria", "Liam"]
+  },
+  "Footer": {
+    "description": "Unlock infinite creativity. Generate breathtaking imagery from text using bleeding-edge AI architecture.",
+    "product": "Product",
+    "uploadPhoto": "Generate Art",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contacts": "Contact Us",
+    "rights": "All rights reserved. Built by"
+  },
+  "ResultView": {
+    "unlock": "Unlock Full Quality",
+    "unlockDesc": "Use credits to remove blur and download in full HD",
+    "download": "Download HD Image",
+    "unlocking": "Unlocking...",
+    "previewMode": "Low-Res Preview",
+    "details": "Generation Details",
+    "status": "Status",
+    "unlocked": "Full HD Unlocked",
+    "previewOnly": "Preview Mode",
+    "closeDialog": "Close",
+    "insufficientCredits": "Not enough credits. Please buy a package.",
+    "credits": "credits"
+  },
+  "LoginModal": {
+    "title": "Enter Pixeliora",
+    "subtitle": "Sign in or create an account to start your creative journey.",
+    "google": "Continue with Google",
+    "terms": "By continuing, you agree to our",
+    "termsLink": "Terms of Service",
+    "and": "and",
+    "privacyLink": "Privacy Policy"
+  },
+  "CookieBanner": {
+    "message": "We use celestial cookies to ensure you get the best experience on our creative platform.",
+    "accept": "Got it",
+    "learnMore": "Learn More"
+  },
+  "About": {
+    "title": "About Pixeliora",
+    "description": "Pixeliora uses cutting-edge artificial intelligence to transform your textual prompts into vibrant, stunning visual masterpieces. Our mission is to democratize digital art creation."
+  },
+  "Contacts": {
+    "title": "Contact Us",
+    "description": "Have questions about Pixeliora? Want to discuss enterprise pricing? We'd love to hear from you.",
+    "email": "Email us at"
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "content": "Your privacy is important to us. This policy outlines how we collect, use, and protect your personal information when you use Pixeliora."
+  },
+  "Terms": {
+    "title": "Terms of Service",
+    "content": "By using Pixeliora, you agree to the following terms and conditions governing the use of our AI image generation service."
+  }
+}

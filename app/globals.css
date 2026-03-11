@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--background: #06060e;
+	--foreground: #f0f0f5;
+}
+
+body {
+	color: var(--foreground);
+	background: var(--background);
+	font-family: 'Outfit', sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #0d0d1a;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #06b6d4;
+	border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #22d3ee;
+}
+
+@layer utilities {
+	.animate-gradient-xy {
+		animation: gradient-xy 3s ease infinite;
+		background-size: 200% 200%;
+	}
+
+	@keyframes gradient-xy {
+		0%, 100% {
+			background-position: 0% 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+	}
+
+	.animate-aurora {
+		animation: aurora-shift 6s ease infinite;
+		background-size: 300% 300%;
+	}
+
+	@keyframes aurora-shift {
+		0% { background-position: 0% 50%; }
+		33% { background-position: 50% 100%; }
+		66% { background-position: 100% 50%; }
+		100% { background-position: 0% 50%; }
+	}
+
+	.animate-float {
+		animation: float 6s ease-in-out infinite;
+	}
+
+	@keyframes float {
+		0%, 100% { transform: translateY(0); }
+		50% { transform: translateY(-10px); }
+	}
+
+	.animate-pulse-glow {
+		animation: pulse-glow 3s ease-in-out infinite;
+	}
+
+	@keyframes pulse-glow {
+		0%, 100% { opacity: 0.4; }
+		50% { opacity: 0.8; }
+	}
+
+	/* Hide Scrollbar Utility */
+	.hide-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+
+	.hide-scrollbar {
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+	}
+}
